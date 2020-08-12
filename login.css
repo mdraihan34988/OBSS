@@ -1,0 +1,56 @@
+body{
+    padding:0;
+    }
+
+
+
+  .center {
+    margin: auto;
+    width: 60%;
+    height: 20px;
+    background-color:white;
+    padding: 20px;
+  }
+  
+.center1 {
+    margin: auto;
+    width: 60%;
+    height: 40px;
+    background-color: rgb(224,255,255);
+    padding: 20px;
+  }
+  .center2 {
+    margin: auto;
+    width: 60%;
+    height: 380px;
+    background-color: white;
+    padding: 20px;
+  }
+  .center3{
+    margin: auto;
+    width: 60%;
+    height:5px;
+    background-color: rgb(224,255,255);
+    padding: 20px;
+  }
+  div.absolute {
+    position: absolute;
+    top: 160px;
+    right: 560px;
+    width: 120px;
+    height: 40px;
+  }
+  div.absolute1 {
+    position: absolute;
+    top: 230px;
+    right: 490px;
+    width: 300px;
+    height: 40px;
+  }
+  div.absolute2 {
+    position: absolute;
+    top: 270px;
+    right: 490px;
+    width: 300px;
+    height: 40px;
+  }
